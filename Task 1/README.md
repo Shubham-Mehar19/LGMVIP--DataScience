@@ -30,8 +30,13 @@ The iris flowers dataset contains numeric attributes, and it is perfect for begi
 4. petal width in cm
 5. class:-
     - Iris Setosa
+     
      <img src = "iris/Irissetosa1.png" style = "width:300px;height:200px"/>
+    
     - Iris Versicolour
+    
     <img src = "iris/irisversicolor.png" style = "width:300px;height:200px"/>
+    
     - Iris Virginica 
+    
     <img src = "iris/Iris_virginica_2.png" style = "width:300px;height:200px"/>
