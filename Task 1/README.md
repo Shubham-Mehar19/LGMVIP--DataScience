@@ -31,7 +31,7 @@ The iris flowers dataset contains numeric attributes, and it is perfect for begi
 5. class:-
     - Iris Setosa
      
-     <img src = "iris/Irissetosa1.png" style = "width:300px;height:200px"/>
+<img src = "iris/Irissetosa1.png" style = "width:300px;height:200px"/>
     
     - Iris Versicolour
     
