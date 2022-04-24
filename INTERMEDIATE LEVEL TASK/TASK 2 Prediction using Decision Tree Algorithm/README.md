@@ -7,6 +7,4 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 ![App Screenshot](https://miro.medium.com/max/1400/0*Uw37vrrKzeEWahdB)
 
-Dataset : https://bit.ly/3kXTdox
-
-Project link : https://github.com/Shubham-Mehar19/LGMVIP--DataScience/blob/main/INTERMEDIATE%20LEVEL%20TASK/TASK%202%20Prediction%20using%20Decision%20Tree%20Algorithm/TASK%202%20Prediction%20using%20Decision%20Tree%20Algorithm.ipynb
+## Dataset : https://bit.ly/3kXTdox
