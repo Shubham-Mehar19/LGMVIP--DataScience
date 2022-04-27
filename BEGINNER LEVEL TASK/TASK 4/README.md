@@ -3,8 +3,6 @@
 
 <img src = "BEGINNER LEVEL TASK/TASK 4/image to pencil sketch.png"/>
 
-![App Screenshot](https://cdn-media-1.freecodecamp.org/images/1*cFcDUhcYTBx4AtGpXzeyXw.png)
-
 The term Computer Vision (CV) is used and heard very often in artificial intelligence (AI) and deep learning (DL) applications. The term essentially means giving a computer the ability to see the world as we humans do.
 
 Computer Vision is a field of study which enables computers to replicate the human visual system. As already mentioned above, It’s a subset of artificial intelligence which collects information from digital images or videos and processes them to define the attributes. The entire process involves image acquiring, screening, analysing, identifying and extracting information. This extensive processing helps computers to understand any visual content and act on it accordingly. 
