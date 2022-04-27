@@ -1,7 +1,8 @@
 
 # Image to Pencil Sketch with Python using cv2 library
 
-![App Screenshot](https://cdn-media-1.freecodecamp.org/images/1*cFcDUhcYTBx4AtGpXzeyXw.png)
+## Project Output
+![App Screenshot](https://raw.githubusercontent.com/Shubham-Mehar19/LGMVIP--DataScience/main/BEGINNER%20LEVEL%20TASK/TASK%204/image%20to%20pencil%20sketch.png)
 
 The term Computer Vision (CV) is used and heard very often in artificial intelligence (AI) and deep learning (DL) applications. The term essentially means giving a computer the ability to see the world as we humans do.
 
@@ -26,6 +27,3 @@ Converting image to a grayscale image. This will turn an image into a classic bl
 
  - Step 5
   Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
-
-
-<img src = "BEGINNER LEVEL TASK/TASK 4/image to pencil sketch.png"/>
