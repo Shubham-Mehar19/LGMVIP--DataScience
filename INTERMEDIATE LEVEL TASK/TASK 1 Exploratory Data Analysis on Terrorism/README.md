@@ -1,10 +1,7 @@
 
-# Task4:Perform "Exploratory Data Analysis" on dataset "Global Terrorism"
+# TASK 1 : Exploratory Data Analysis On Dataset-Terrorism
 
 ## As a security/defense analyst, try to find out hot zone of terrorism.
-
-## What all security issues and insights you can derive by EDA?
-
 
 From article on terrorism
 
