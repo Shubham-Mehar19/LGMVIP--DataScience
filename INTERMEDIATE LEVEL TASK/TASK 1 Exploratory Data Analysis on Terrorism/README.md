@@ -3,6 +3,8 @@
 
 ## As a security/defense analyst, try to find out hot zone of terrorism.
 
+<img src=https://st2.depositphotos.com/1006318/11476/v/950/depositphotos_114762656-stock-illustration-armed-terrorist-group-over-world.jpg" height="60" width="60" >
+
 From article on terrorism
 
 Over the past decade, terrorists killed an average of 21,000 people worldwide each year.
