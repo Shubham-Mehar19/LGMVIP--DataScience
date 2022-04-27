@@ -1,5 +1,6 @@
 # LGMVIP--DataScience
 Let’s Grow More Virtual Internship Programme. 1 Month internship for the role of “Data Science Intern”.
+![App Screenshot](https://letsgrowmore.in/wp-content/uploads/2021/05/Artboard-1-1-removebg-preview-e1645900071758.jpg)
 
 ## BEGINNER LEVEL 
 
