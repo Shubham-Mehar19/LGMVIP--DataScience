@@ -1,7 +1,7 @@
 
 # Image to Pencil Sketch with Python using cv2 library
 
-<img src = "LGMVIP--DataScience/BEGINNER LEVEL TASK/TASK 4/image to pencil sketch.png"/>
+![App Screenshot](https://cdn-media-1.freecodecamp.org/images/1*cFcDUhcYTBx4AtGpXzeyXw.png)
 
 The term Computer Vision (CV) is used and heard very often in artificial intelligence (AI) and deep learning (DL) applications. The term essentially means giving a computer the ability to see the world as we humans do.
 
