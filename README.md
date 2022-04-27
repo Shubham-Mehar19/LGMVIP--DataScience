@@ -10,6 +10,11 @@ Dataset link :- http://archive.ics.uci.edu/ml/datasets/Iris
 
 ## INTERMEDIATE LEVEL 
 
+### TASK 1 : Exploratory Data Analysis On Dataset-Terrorism
+As a security/defense analyst, try to find out hot zone of terrorism.
+
+Dataset: https://bit.ly/2TK5Xn5
+
 ### Task 2 : Create the Decision Tree Classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
