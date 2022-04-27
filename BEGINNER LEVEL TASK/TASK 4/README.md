@@ -28,4 +28,4 @@ Converting image to a grayscale image. This will turn an image into a classic bl
   Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
 
 
-<img src = "LGMVIP--DataScience/BEGINNER LEVEL TASK/TASK 4/image to pencil sketch.png"/>
+<img src = "BEGINNER LEVEL TASK/TASK 4/image to pencil sketch.png"/>
