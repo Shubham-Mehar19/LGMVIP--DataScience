@@ -3,7 +3,7 @@
 
 ## As a security/defense analyst, try to find out hot zone of terrorism.
 
-<img src=https://st2.depositphotos.com/1006318/11476/v/950/depositphotos_114762656-stock-illustration-armed-terrorist-group-over-world.jpg" height="60" width="60" >
+![App Screenshot](https://st2.depositphotos.com/1006318/11476/v/950/depositphotos_114762656-stock-illustration-armed-terrorist-group-over-world.jpg)
 
 From article on terrorism
 
